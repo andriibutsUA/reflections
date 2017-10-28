@@ -6,3 +6,6 @@ It marks the files that will be added to a commit. It allows you to choose which
 
 How can you use the staging area to make sure you have one commit per logical change?
 You can add files that are logically related to the commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When you want to make an experimental feature, different version or a localization. A new brench will make a parallel version that doesn't affect the master branch.
