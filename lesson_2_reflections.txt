@@ -12,3 +12,6 @@ When you want to make an experimental feature, different version or a localizati
 
 How do the diagrams help you visualize the branch structure?
 They visually represent the current structure of a program and show you where each version was branched so you can now what features were or were not included in these versions
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+One branch merges into another and all commits from one branch become available in another. Diagrams are heplful to understand what commits will be merged.
