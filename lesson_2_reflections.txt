@@ -15,3 +15,6 @@ They visually represent the current structure of a program and show you where ea
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 One branch merges into another and all commits from one branch become available in another. Diagrams are heplful to understand what commits will be merged.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Git can merge files if there are no conflicts and that saves time. But if there is one, you are forced to resolve this conflict manually.
