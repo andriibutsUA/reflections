@@ -12,3 +12,6 @@ If I am about to go without Internet access for a while, for example to workon a
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I would suggest to use google docs or dropbox.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When you are working on your own it is easier to work on a single branch. When working in a team, branches help to keep track of the progress and the changes.
